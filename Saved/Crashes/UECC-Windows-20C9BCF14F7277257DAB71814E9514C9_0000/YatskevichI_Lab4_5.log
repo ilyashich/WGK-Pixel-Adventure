@@ -1,0 +1,1045 @@
+﻿Log file open, 01/11/23 10:45:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=572)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: YatskevichI_Lab4_5
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/YatskevichI_Lab4_5.uproject -EpicPortal -epicusername=Try_And_Fight -epicuserid=e201993989304a509c61fe9ac3ab2656 -epiclocale=ru -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2f5b4ad34af65912601a6c9236ee2562"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.544003
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-20C9BCF14F7277257DAB71814E9514C9
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2364] (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Try_And_Fight -epicuserid=e201993989304a509c61fe9ac3ab2656 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: D:/Epic Games/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.11-09.45.07:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.11-09.45.07:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.11-09.45.07:387][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.11-09.45.07:387][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.11-09.45.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.11-09.45.07:393][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.11-09.45.07:408][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.11-09.45.07:408][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.11-09.45.07:607][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce 940MX (Max supported Feature Level 11_0, shader model 6.6)
+[2023.01.11-09.45.07:607][  0]LogD3D12RHI: Adapter has 4055MB of dedicated video memory, 0MB of dedicated system memory, and 8141MB of shared system memory, 1 output[s]
+[2023.01.11-09.45.07:732][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 620 (Max supported Feature Level 12_1, shader model 6.5)
+[2023.01.11-09.45.07:732][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8141MB of shared system memory, 0 output[s]
+[2023.01.11-09.45.07:738][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.11-09.45.07:738][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8141MB of shared system memory, 0 output[s]
+[2023.01.11-09.45.07:738][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.11-09.45.07:739][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.11-09.45.07:739][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.11-09.45.07:739][  0]LogHAL: Display: Platform has ~ 16 GB [17073258496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.11-09.45.07:739][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.11-09.45.07:739][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.01.11-09.45.07:739][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.11-09.45.07:739][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.11-09.45.07:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.11-09.45.07:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.11-09.45.07:741][  0]LogInit: Computer: DESKTOP-EP6GDV6
+[2023.01.11-09.45.07:741][  0]LogInit: User: ilyas
+[2023.01.11-09.45.07:741][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.01.11-09.45.07:741][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.11-09.45.07:741][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.11-09.45.07:741][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.11-09.45.07:741][  0]LogMemory: Process Physical Memory: 261.03 MB used, 264.10 MB peak
+[2023.01.11-09.45.07:741][  0]LogMemory: Process Virtual Memory: 194.77 MB used, 194.77 MB peak
+[2023.01.11-09.45.07:741][  0]LogMemory: Physical Memory: 8439.81 MB used,  7842.52 MB free, 16282.33 MB total
+[2023.01.11-09.45.07:741][  0]LogMemory: Virtual Memory: 12270.88 MB used,  6443.45 MB free, 18714.33 MB total
+[2023.01.11-09.45.07:741][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.11-09.45.07:748][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.11-09.45.07:767][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.11-09.45.07:768][  0]LogInit: Using OS detected language (ru-RU).
+[2023.01.11-09.45.07:768][  0]LogInit: Using OS detected locale (ru-BY).
+[2023.01.11-09.45.07:770][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.01.11-09.45.07:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.01.11-09.45.07:772][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.11-09.45.07:792][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem:   - Русский (Беларусь) - (Keyboard).
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem:   - Белорусский (Беларусь) - (Keyboard).
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem:   - Английский (Соединенное Королевство) - (Keyboard).
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem:   - Польский (Польша) - (Keyboard).
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2023.01.11-09.45.07:793][  0]LogWindowsTextInputMethodSystem: Activated input method: Польский (Польша) - (Keyboard).
+[2023.01.11-09.45.07:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.11-09.45.07:818][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.11-09.45.08:001][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.11-09.45.08:005][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.11-09.45.08:005][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.11-09.45.08:125][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.11-09.45.08:179][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.11-09.45.08:185][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.11-09.45.08:206][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.11-09.45.08:219][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.11-09.45.08:219][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.11-09.45.08:278][  0]LogD3D12RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2023.01.11-09.45.08:278][  0]LogWindows: Attached monitors:
+[2023.01.11-09.45.08:278][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.11-09.45.08:278][  0]LogWindows: Found 1 attached monitors.
+[2023.01.11-09.45.08:278][  0]LogWindows: EnumDisplayDevices:
+[2023.01.11-09.45.08:278][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.11-09.45.08:279][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.11-09.45.08:280][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.11-09.45.08:281][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.01.11-09.45.08:281][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2023.01.11-09.45.08:281][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.01.11-09.45.08:281][  0]LogD3D12RHI:      Driver Date: Unknown
+[2023.01.11-09.45.08:281][  0]LogRHI: Texture pool is 2171 MB (70% of 3102 MB)
+[2023.01.11-09.45.08:281][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.11-09.45.08:281][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.11-09.45.08:296][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.11-09.45.08:302][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/YatskevichI_Lab4_5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/TurnkeyReport_0.log" -log="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/TurnkeyLog_0.log" -project="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/YatskevichI_Lab4_5.uproject"  -platform=all'
+[2023.01.11-09.45.08:302][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/YatskevichI_Lab4_5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/TurnkeyReport_0.log" -log="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/TurnkeyLog_0.log" -project="D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/YatskevichI_Lab4_5.uproject"  -platform=all" ]
+[2023.01.11-09.45.08:337][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.11-09.45.08:349][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.11-09.45.08:349][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.11-09.45.08:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.11-09.45.08:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.11-09.45.08:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.11-09.45.08:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.11-09.45.08:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.11-09.45.08:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.11-09.45.08:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.11-09.45.08:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.11-09.45.08:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.11-09.45.08:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.11-09.45.08:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.11-09.45.08:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.11-09.45.08:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.11-09.45.08:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.11-09.45.08:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.11-09.45.08:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.11-09.45.08:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.11-09.45.08:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.11-09.45.08:427][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.11-09.45.08:437][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.11-09.45.08:443][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.11-09.45.08:443][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.11-09.45.08:443][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.11-09.45.08:443][  0]LogTargetPlatformManager:   PCM
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager:   BINKA
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager:   OGG
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.11-09.45.08:447][  0]LogTargetPlatformManager:   OPUS
+[2023.01.11-09.45.08:506][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.11-09.45.08:514][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.11-09.45.08:515][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.11-09.45.08:519][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.11-09.45.08:520][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.11-09.45.08:520][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.11-09.45.08:520][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.11-09.45.08:521][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.11-09.45.08:521][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.11-09.45.08:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.11-09.45.08:528][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.11-09.45.08:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.11-09.45.08:528][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.11-09.45.08:557][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.11-09.45.08:557][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.11-09.45.08:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.11-09.45.08:558][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.11-09.45.08:569][  0]LogDerivedDataCache: Speed tests for C:/Users/ilyas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.11-09.45.08:569][  0]LogDerivedDataCache: Display: Performance to C:/Users/ilyas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=842.34MBs, RandomWriteSpeed=96.19MBs. Assigned SpeedClass 'Local'
+[2023.01.11-09.45.08:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ilyas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.11-09.45.08:572][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.11-09.45.08:572][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.11-09.45.08:583][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.11-09.45.08:583][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.11-09.45.08:584][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Intermediate/Shaders/WorkingDirectory/10652/).
+[2023.01.11-09.45.08:584][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ilyas/AppData/Local/Temp/UnrealShaderWorkingDir/3902E0494E25F3F5EE9776AFB4A68736/'.
+[2023.01.11-09.45.08:584][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.11-09.45.08:584][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.01.11-09.45.10:523][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.11-09.45.10:524][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.11-09.45.10:581][  0]LogAssetRegistry: FAssetRegistry took 0.0136 seconds to start up
+[2023.01.11-09.45.10:587][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.11-09.45.10:891][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.11-09.45.10:892][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.11-09.45.11:203][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.11-09.45.11:203][  0]LogDeviceProfileManager: Active device profile: [00000ABDBCD93D40][00000ABDB1790000 50] WindowsEditor
+[2023.01.11-09.45.11:203][  0]LogDeviceProfileManager: Profiles: [00000ABDBCD93800][00000ABDB1795000 50] Windows, [00000ABDBCD93D40][00000ABDB1790000 50] WindowsEditor, [00000ABDBCD932C0][00000ABDB1707800 50] WindowsServer, [00000ABDBCD91340][00000ABDB161C800 50] WindowsClient, [00000ABDBCD90380][00000ABDB1792800 50] IOS, [00000ABDBCD91A40][00000ABDA854A000 50] iPadAir2, [00000ABDBCD94EC0][00000ABDBCDA2800 50] IPadPro, [00000ABDBCD95240][00000ABDBCDA0000 50] iPadAir3, [00000ABDBCD947C0][00000ABDBCDA7800 50] iPadAir4, [00000ABDBCD93100][00000ABDBCDAA000 50] iPadMini4, [00000ABDBCD924C0][00000ABDBCDAC800 50] iPadMini5, [00000ABDBCD95400][00000ABDB586C800 50] iPadMini6, [00000ABDBCD98880][00000ABDBCDB5000 50] iPhone6S, [00000ABDBCD98C00][00000ABDBCDB2800 50] iPhone7, [00000ABDBCD98500][00000ABDBCDB0000 50] iPodTouch7, [00000ABDBCD97E00][00000ABDBCDBA000 50] iPhone6SPlus, [00000ABDBCD91F80][00000ABDBCDBC800 50] iPhone7Plus, [00000ABDBCD95B00][00000ABDBCDA5000 50] iPhoneSE, [00000ABDBCD95E80][00000ABDBCD70000 50] iPhone8, [00000ABDBCD908C0][00000ABDBCD75000 50] iPhone8Plus, [00000ABDBCD91500][00000ABDBCD77800 50] iPhoneX, [00000ABDBCD97380][00000ABDBCD7A000 50] iPhoneXS, [00000ABDBCD90A80][00000ABDBCD7C800 50] iPhoneXSMax, [00000ABDBCD94B40][00000ABDBCDB7800 50] iPhoneXR, [00000ABDBCD98A40][00000ABDBCDD0000 50] iPhone11, [00000ABDBCD95940][00000ABDBCDD5000 50] iPhone11Pro, [00000ABDBCD986C0][00000ABDBCDD7800 50] iPhone11ProMax, [00000ABDBCD97FC0][00000ABDBCDDA000 50] iPhoneSE2, [00000ABDBCD91C00][00000ABDBCDDC800 50] iPhone12Mini, [00000ABDBCD96580][00000ABDBCD72800 50] iPhone12, [00000ABDBCD93640][00000ABDBCDE0000 50] iPhone12Pro, [00000ABDBCD96040][00000ABDBCDE5000 50] iPhone12ProMax, [00000ABDBCD901C0][00000ABDBCDE7800 50] iPhone13Mini, [00000ABDBCD96E40][00000ABDBCDEA000 50] iPhone13, [00000ABDBCD92840][00000ABDBCDEC800 50] iPhone13Pro, [00000ABDBCD96740][00000ABDBCDD2800 50] iPhone13ProMax, [00000ABDBCD95CC0][00000ABDBCDF0000 50] iPadPro105, [00000ABDBCD96AC0][00000ABDBCDF5000 50] iPadPro129, [00000ABDBCD95080][00000ABDBCDF7800 50] iPadPro97, [00000ABDBCD94D00][00000ABDBCDFA000 50] iPadPro2_129, [00000ABDBCD93B80][00000ABDBCDFC800 50] iPad5, [00000ABDBCD92D80][00000ABDBCDE2800 50] iPad6, [00000ABDBCD963C0][00000ABDBCE30000 50] iPad7, [00000ABDBCD93480][00000ABDBCE35000 50] iPad8, [00000ABDBCD97C40][00000ABDBCE37800 50] iPad9, [00000ABDBCD94600][00000ABDBCE3A000 50] iPadPro11, [00000ABDBCD978C0][00000ABDBCE3C800 50] iPadPro2_11, [00000ABDBCD90000][00000ABDBCDF2800 50] iPadPro3_11, [00000ABDBCD97700][00000ABDBCE40000 50] iPadPro3_129, [00000ABDBCD92680][00000ABDBCE45000 50] iPadPro4_129, [00000ABDBCD95780][00000ABDBCE47800 50] iPadPro5_129, [00000ABDBCD955C0][00000ABDBCE4A000 50] AppleTV, [00000ABDBCD91880][00000ABDBCE4C800 50] AppleTV4K, [00000ABDBCD91DC0][00000ABDBCE32800 50] TVOS, [00000ABDBCD9AB80][00000ABDBCE52800 50] Mac, [00000ABDBCD9AF00][00000ABDBCE50000 50] MacEditor, [00000ABDBCD94440][00000ABDBCE57800 50] MacClient, [00000ABDBCD9B0C0][00000ABDBCE5A000 50] MacServer, [00000ABDBCD9A800][00000ABDBCE42800 50] Linux, [00000ABDBCD97A80][00000ABDBCE5C800 50] LinuxEditor, [00000ABDBCD9A2C0][00000ABDBCE60000 50] LinuxArm64Editor, [00000ABDBCD9B280][00000ABDBCE65000 50] LinuxArm64, [00000ABDBCD92A00][00000ABDBCE67800 50] LinuxClient, [00000ABDBCD9A480][00000ABDBCE6A000 50] LinuxArm64Client, [00000ABDBCD92F40][00000ABDBCE6C800 50] LinuxServer, [00000ABDBCD9B7C0][00000ABDBCE55000 50] LinuxArm64Server, [00000ABDBCD90C40][00000ABDBCE70000 50] Android, [00000ABDBCD91180][00000ABDBCE75000 50] Android_Preview_OpenGL, [00000ABDBCD99A00][00000ABDBCE77800 50] Android_Preview_Vulkan, [00000ABDBCD94980][00000ABDBCE7A000 50] Android_Low, [00000ABDBCD994C0][00000ABDBCE7C800 50] Android_Mid, [00000ABDBCD93F00][00000ABDBCE62800 50] Android_High, [00000ABDBCD96C80][00000ABDBCE80000 50] Android_Default, [00000ABDBCD94280][00000ABDBCE85000 50] Android_Adreno4xx, [00000ABDBCD9A640][00000ABDBCE87800 50] Android_Adreno5xx_Low, [00000ABDBCD92300][00000ABDBCE8A000 50] Android_Adreno5xx, [00000ABDBCD90540][00000ABDBCE8C800 50] Android_Adreno6xx, [00000ABDBCD9BB40][00000ABDBCE72800 50] Android_Adreno6xx_Vulkan, [00000ABDBCD9A100][00000ABDBCE90000 50] Android_Adreno7xx, [00000ABDBCD98340][00000ABDBCE95000 50] Android_Adreno7xx_Vulkan, [00000ABDBCD96900][00000ABDBCE97800 50] Android_Mali_T6xx, [00000ABDBCD9B600][00000ABDBCE9A000 50] Android_Mali_T7xx, [00000ABDBCD99140][00000ABDBCE9C800 50] Android_Mali_T8xx, [00000ABDBCD90E00][00000ABDBCE82800 50] Android_Mali_G71, [00000ABDBCD97000][00000ABDBCEB0000 50] Android_Mali_G72, [00000ABDBCD98F80][00000ABDBCEB5000 50] Android_Mali_G72_Vulkan, [00000ABDBCD9BEC0][00000ABDBCEB7800 50] Android_Mali_G76, [00000ABDBCD92BC0][00000ABDBCEBA000 50] Android_Mali_G76_Vulkan, [00000ABDBCD9B440][00000ABDBCEBC800 50] Android_Mali_G77, [00000ABDBCD99680][00000ABDBCE92800 50] Android_Mali_G77_Vulkan, [00000ABDBCD96200][00000ABDBCEC0000 50] Android_Mali_G78, [00000ABDBCD9B980][00000ABDBCEC5000 50] Android_Mali_G78_Vulkan, [00000ABDBCD92140][00000ABDBCEC7800 50] Android_Mali_G710, [00000ABDBCD99F40][00000ABDBCECA000 50] Android_Mali_G710_Vulkan, [00000ABDBCD9CCC0][00000ABDBCECC800 50] Android_Xclipse_920, [00000ABDBCD99300][00000ABDBCEB2800 50] Android_Xclipse_920_Vulkan, [00000ABDBCD90FC0][00000ABDBCED0000 50] Android_Vulkan_SM5, [00000ABDBCD9C780][00000ABDBCED5000 50] Android_PowerVR_G6xxx, [00000ABDBCD9CB00][00000ABDBCED7800 50] Android_PowerVR_GT7xxx, [00000ABDBCD9C5C0][00000ABDBCEDA000 50] Android_PowerVR_GE8xxx, [00000ABDBCD99BC0][00000ABDBCEDC800 50] Android_PowerVR_GM9xxx, [00000ABDBCD9D040][00000ABDBCEC2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000ABDBCD90700][00000ABDBCEE0000 50] Android_TegraK1, [00000ABDBCD9DE40][00000ABDBCEE5000 50] Android_Unknown_Vulkan, [00000ABDBCD9E000][00000ABDBCEE7800 50] Oculus_Quest, [00000ABDBCD9A9C0][00000ABDBCEEA000 50] Oculus_Quest2, [00000ABDBCD9D900][00000ABDBCEEC800 50] HoloLens, 
+[2023.01.11-09.45.11:203][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.11-09.45.11:238][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.11-09.45.11:487][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.11-09.45.11:487][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.11-09.45.11:487][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.11-09.45.11:487][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.11-09.45.11:487][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.11-09.45.11:508][  0]LogNetVersion: YatskevichI_Lab4_5 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2728517752)
+[2023.01.11-09.45.11:690][  0]LogSlate: Border
+[2023.01.11-09.45.11:690][  0]LogSlate: BreadcrumbButton
+[2023.01.11-09.45.11:690][  0]LogSlate: Default
+[2023.01.11-09.45.11:690][  0]LogSlate: Icons.Save
+[2023.01.11-09.45.11:690][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.11-09.45.11:690][  0]LogSlate: ListView
+[2023.01.11-09.45.11:690][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.11-09.45.11:690][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.11-09.45.11:690][  0]LogSlate: TableView.DarkRow
+[2023.01.11-09.45.11:690][  0]LogSlate: TableView.Row
+[2023.01.11-09.45.11:690][  0]LogSlate: TreeView
+[2023.01.11-09.45.11:973][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.12:014][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.12:014][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.12:168][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.11-09.45.12:168][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.01.11-09.45.12:168][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.11-09.45.12:581][  0]LogPython: Using Python 3.9.7
+[2023.01.11-09.45.13:648][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 97AE757D4DD67E4B1AA1DA9F0B20589B | Instance: 0836C2F44C82032EFCB8DE9DF3C96748 (DESKTOP-EP6GDV6-10652).
+[2023.01.11-09.45.13:724][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.11-09.45.13:729][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.11-09.45.14:157][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.11-09.45.14:212][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.14:215][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.14:224][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.14:234][  0]LogUProjectInfo: Found projects:
+[2023.01.11-09.45.14:284][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.11-09.45.14:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.11-09.45.14:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.11-09.45.14:428][  0]LogCollectionManager: Loaded 0 collections in 0.000850 seconds
+[2023.01.11-09.45.14:532][  0]LogFileCache: Scanning file cache for directory 'D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Collections/' took 0.00s
+[2023.01.11-09.45.14:532][  0]LogFileCache: Scanning file cache for directory 'D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/Developers/ilyas/Collections/' took 0.00s
+[2023.01.11-09.45.14:532][  0]LogFileCache: Scanning file cache for directory 'D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/Collections/' took 0.00s
+[2023.01.11-09.45.15:091][  0]LogEngine: Initializing Engine...
+[2023.01.11-09.45.15:110][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.11-09.45.15:111][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.11-09.45.15:463][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.11-09.45.15:463][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.11-09.45.15:476][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-09.45.15:521][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.11-09.45.15:522][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.11-09.45.15:549][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.11-09.45.15:550][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.11-09.45.15:550][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.11-09.45.15:551][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.11-09.45.15:551][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.11-09.45.15:551][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.11-09.45.15:551][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.11-09.45.15:552][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.11-09.45.15:552][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.11-09.45.15:552][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.11-09.45.15:559][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.11-09.45.15:674][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики / головные телефоны (Realtek Audio)
+[2023.01.11-09.45.15:675][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.11-09.45.15:677][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.11-09.45.15:677][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.11-09.45.15:678][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.11-09.45.15:678][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-09.45.15:680][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-09.45.15:680][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.11-09.45.15:680][  0]LogInit: FAudioDevice initialized.
+[2023.01.11-09.45.15:680][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.11-09.45.15:680][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.11-09.45.15:680][  0]LogInit: Texture streaming: Enabled
+[2023.01.11-09.45.15:727][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.11-09.45.15:746][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.11-09.45.15:746][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={30E26CDC-4FE0-BA77-9896-29BFEB2E3F19}
+[2023.01.11-09.45.15:787][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.11-09.45.15:796][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.11-09.45.15:796][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.11-09.45.17:523][  0]LogLiveCoding: Display: First instance in process group "UE_YatskevichI_Lab4_5_0xfcfea8ac", spawning console
+[2023.01.11-09.45.17:523][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.11-09.45.17:523][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.11-09.45.17:565][  0]LogInit: Transaction tracking system initialized
+[2023.01.11-09.45.17:671][  0]BlueprintLog: New page: Editor Load
+[2023.01.11-09.45.17:941][  0]LocalizationService: Localization service is disabled
+[2023.01.11-09.45.18:010][  0]TimingProfiler: Initialize
+[2023.01.11-09.45.18:010][  0]TimingProfiler: OnSessionChanged
+[2023.01.11-09.45.18:010][  0]LoadingProfiler: Initialize
+[2023.01.11-09.45.18:011][  0]LoadingProfiler: OnSessionChanged
+[2023.01.11-09.45.18:011][  0]NetworkingProfiler: Initialize
+[2023.01.11-09.45.18:011][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.11-09.45.18:011][  0]MemoryProfiler: Initialize
+[2023.01.11-09.45.18:011][  0]MemoryProfiler: OnSessionChanged
+[2023.01.11-09.45.18:944][  0]LogFileCache: Scanning file cache for directory 'D:/Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/' took 0.01s
+[2023.01.11-09.45.18:944][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.11-09.45.19:065][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.11-09.45.19:067][  0]SourceControl: Source control is disabled
+[2023.01.11-09.45.19:067][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.129
+[2023.01.11-09.45.19:068][  0]Cmd: MAP LOAD FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMaps/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.11-09.45.19:068][  0]LightingResults: New page: Lighting Build
+[2023.01.11-09.45.19:077][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.11-09.45.19:077][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.11-09.45.19:078][  0]MapCheck: New page: Map Check
+[2023.01.11-09.45.19:078][  0]LightingResults: New page: Lighting Build
+[2023.01.11-09.45.19:088][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.11-09.45.19:092][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.11-09.45.19:370][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyLevel'.
+[2023.01.11-09.45.19:370][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.11-09.45.19:370][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-09.45.19:370][  0]LogAIModule: Creating AISystem for world MyLevel
+[2023.01.11-09.45.19:382][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.11-09.45.19:416][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.01.11-09.45.19:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.11-09.45.19:417][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2023.01.11-09.45.19:417][  0]LogFileHelpers: Loading map 'MyLevel' took 0.349
+[2023.01.11-09.45.19:430][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.492
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: ================================================
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.11-09.45.19:430][  0]LogShaderCompilers: Display: ================================================
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:543][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.11-09.45.19:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-09.45.19:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-09.45.19:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-09.45.19:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-09.45.19:672][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:672][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:673][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:673][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:673][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:673][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:674][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:674][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:675][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:675][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:675][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:675][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:676][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:676][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:676][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:676][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:677][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:677][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:677][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.11-09.45.19:677][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-09.45.19:677][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.11-09.45.19:848][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.11-09.45.19:851][  0]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.11-09.45.19:857][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.11-09.45.19:857][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.11-09.45.19:896][  0]LogViewport: Scene viewport resized to 1468x1262, mode Windowed.
+[2023.01.11-09.45.21:058][  0]LogStall: Startup...
+[2023.01.11-09.45.21:060][  0]LogStall: Startup complete.
+[2023.01.11-09.45.21:221][  0]LogLoad: (Engine Initialization) Total time: 16.28 seconds
+[2023.01.11-09.45.21:221][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.11-09.45.21:282][  0]LogAssetRegistry: Asset discovery search completed in 10.7034 seconds
+[2023.01.11-09.45.21:297][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.11-09.45.21:335][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.01.11-09.45.23:858][ 18]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.11-09.45.23:867][ 18]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.11-09.45.28:831][ 91]LogAssetTools: Warning: Failed to import 'D:\Univer\WGK\UnrealProjects\MyProject5\MyProject5\Content\MyMenu\HoverButton.uasset'. Unknown extension 'uasset'.
+[2023.01.11-09.45.28:856][ 91]LogAssetTools: Warning: Failed to import 'D:\Univer\WGK\UnrealProjects\MyProject5\MyProject5\Content\MyMenu\MouseHover.uasset'. Unknown extension 'uasset'.
+[2023.01.11-09.45.28:890][ 91]LogAssetTools: Warning: Failed to import 'D:\Univer\WGK\UnrealProjects\MyProject5\MyProject5\Content\MyMenu\MousePressed.uasset'. Unknown extension 'uasset'.
+[2023.01.11-09.45.28:923][ 91]LogAssetTools: Warning: Failed to import 'D:\Univer\WGK\UnrealProjects\MyProject5\MyProject5\Content\MyMenu\NormalButton.uasset'. Unknown extension 'uasset'.
+[2023.01.11-09.45.28:957][ 91]LogAssetTools: Warning: Failed to import 'D:\Univer\WGK\UnrealProjects\MyProject5\MyProject5\Content\MyMenu\PressedButton.uasset'. Unknown extension 'uasset'.
+[2023.01.11-09.47.18:320][753]LogDerivedDataCache: C:/Users/ilyas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.405 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.11-09.48.42:215][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/HoverButton" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/HoverButton.uasset" SILENT=true
+[2023.01.11-09.48.42:222][980]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006083 seconds
+[2023.01.11-09.48.42:228][980]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/HoverButton
+[2023.01.11-09.48.42:228][980]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/HoverButton4B8230614D4FA46F43231293DC8EF5D2.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/HoverButton.uasset'
+[2023.01.11-09.48.42:229][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/MouseHover" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/MouseHover.uasset" SILENT=true
+[2023.01.11-09.48.42:231][980]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/MouseHover
+[2023.01.11-09.48.42:231][980]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/MouseHover235AFD8545618E2F3C2A59B4A4A57B73.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/MouseHover.uasset'
+[2023.01.11-09.48.42:232][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/MousePressed" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/MousePressed.uasset" SILENT=true
+[2023.01.11-09.48.42:233][980]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/MousePressed
+[2023.01.11-09.48.42:233][980]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/MousePressedF3D5B14E42AE1D2325E27BAA5C16F351.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/MousePressed.uasset'
+[2023.01.11-09.48.42:236][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/NormalButton" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/NormalButton.uasset" SILENT=true
+[2023.01.11-09.48.42:239][980]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/NormalButton
+[2023.01.11-09.48.42:239][980]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/NormalButtonEDB1FD034551913079139DBF776CC1DA.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/NormalButton.uasset'
+[2023.01.11-09.48.42:242][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/PressedButton" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/PressedButton.uasset" SILENT=true
+[2023.01.11-09.48.42:244][980]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/PressedButton
+[2023.01.11-09.48.42:244][980]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/PressedButton1DD95C59430BE63EE33483B9FF27D83E.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/PressedButton.uasset'
+[2023.01.11-09.48.42:299][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.11-09.48.42:309][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.11-09.48.42:318][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.11-09.48.42:347][980]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.11-09.48.42:347][980]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/PressedButton.PressedButton
+[2023.01.11-09.48.42:347][980]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/NormalButton.NormalButton
+[2023.01.11-09.48.42:347][980]LogContentValidation: Display: Validating SoundWave /Game/MyFolder/MyMenu/MousePressed.MousePressed
+[2023.01.11-09.48.42:347][980]LogContentValidation: Display: Validating SoundWave /Game/MyFolder/MyMenu/MouseHover.MouseHover
+[2023.01.11-09.48.42:347][980]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/HoverButton.HoverButton
+[2023.01.11-09.49.34:475][285]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ilyas\Downloads\Background.jpg)
+[2023.01.11-09.49.34:482][285]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.01.11-09.49.34:486][285]LogTexture: Display: Building textures: /Game/MyFolder/MyMenu/Background.Background (TFO_AutoDXT, 540X324 X1X1) (Required Memory Estimate: 3.337097 MB), EncodeSpeed: Fast
+[2023.01.11-09.49.38:864][441]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MyFolder/MyMenu/Background.Background
+[2023.01.11-09.49.38:924][441]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.01.11-09.49.41:132][571]LogViewport: Scene viewport resized to 1905x1258, mode Windowed.
+[2023.01.11-09.49.44:096][662]LogSlate: Window 'Background' being destroyed
+[2023.01.11-09.49.44:126][662]LogSlate: Window 'Background' being destroyed
+[2023.01.11-09.50.10:550][271]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.01.11-09.50.10:550][271]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.01.11-09.50.14:401][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Volume" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Volume.uasset" SILENT=true
+[2023.01.11-09.50.14:404][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Volume
+[2023.01.11-09.50.14:404][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Volume0A1DEDD64E2920E06D6ECE95E13B1503.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Volume.uasset'
+[2023.01.11-09.50.14:406][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Settings" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Settings.uasset" SILENT=true
+[2023.01.11-09.50.14:408][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Settings
+[2023.01.11-09.50.14:408][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Settings8B33045A410ABCBDD4DB31BC0B8A59D9.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Settings.uasset'
+[2023.01.11-09.50.14:409][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Restart" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Restart.uasset" SILENT=true
+[2023.01.11-09.50.14:411][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Restart
+[2023.01.11-09.50.14:412][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/RestartFB53A6A7417101A4AEA25CA56C59E24C.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Restart.uasset'
+[2023.01.11-09.50.14:412][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Previous" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Previous.uasset" SILENT=true
+[2023.01.11-09.50.14:414][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Previous
+[2023.01.11-09.50.14:414][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/PreviousE313F13940A83C4D313B1DB885E8C2F0.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Previous.uasset'
+[2023.01.11-09.50.14:415][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Play" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Play.uasset" SILENT=true
+[2023.01.11-09.50.14:417][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Play
+[2023.01.11-09.50.14:417][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Play07EA23B641D0556BCC517F8B3FD4FEA3.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Play.uasset'
+[2023.01.11-09.50.14:418][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Next" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Next.uasset" SILENT=true
+[2023.01.11-09.50.14:420][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Next
+[2023.01.11-09.50.14:420][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Next414A98214BD1609B0656009A89F85899.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Next.uasset'
+[2023.01.11-09.50.14:421][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Levels" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Levels.uasset" SILENT=true
+[2023.01.11-09.50.14:423][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Levels
+[2023.01.11-09.50.14:423][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Levels2C76ED63490C51198CEC4EB30DDFA1B9.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Levels.uasset'
+[2023.01.11-09.50.14:426][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Leaderboard
+[2023.01.11-09.50.14:426][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Leaderboard21E222FF4041570D5C069CB8F7EAC277.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Leaderboard.uasset'
+[2023.01.11-09.50.14:427][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Close" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Close.uasset" SILENT=true
+[2023.01.11-09.50.14:429][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Close
+[2023.01.11-09.50.14:429][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Close48C270214886C4938CD70795FFAF7BD0.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Close.uasset'
+[2023.01.11-09.50.14:430][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Buttons/Back" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Back.uasset" SILENT=true
+[2023.01.11-09.50.14:432][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Back
+[2023.01.11-09.50.14:432][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Back222949DA482C645B6600E5A029088342.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Back.uasset'
+[2023.01.11-09.50.14:435][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Buttons/Achievements
+[2023.01.11-09.50.14:435][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Achievements4E1E950B4B1A1F2A2936588E18292EEA.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Buttons/Achievements.uasset'
+[2023.01.11-09.50.14:553][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.11-09.50.14:565][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.11-09.50.14:578][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.11-09.50.14:823][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/50" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/50.uasset" SILENT=true
+[2023.01.11-09.50.14:825][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/50
+[2023.01.11-09.50.14:825][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/50AC3B7EB24299B43734193E8646FA40A4.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/50.uasset'
+[2023.01.11-09.50.14:826][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/49" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/49.uasset" SILENT=true
+[2023.01.11-09.50.14:828][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/49
+[2023.01.11-09.50.14:828][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/498080BCD6413A5713FC4B1EAC9C2B396D.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/49.uasset'
+[2023.01.11-09.50.14:829][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/48" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/48.uasset" SILENT=true
+[2023.01.11-09.50.14:831][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/48
+[2023.01.11-09.50.14:831][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/48B8A495FE48EDFA1CE0CDDA951CC2692C.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/48.uasset'
+[2023.01.11-09.50.14:833][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/47" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/47.uasset" SILENT=true
+[2023.01.11-09.50.14:836][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/47
+[2023.01.11-09.50.14:836][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/47547C198C41C6BE35FE6C45B573CF2782.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/47.uasset'
+[2023.01.11-09.50.14:836][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/46" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/46.uasset" SILENT=true
+[2023.01.11-09.50.14:838][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/46
+[2023.01.11-09.50.14:838][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/46CDFEE4CD48755BF7357C80835A2665FD.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/46.uasset'
+[2023.01.11-09.50.14:839][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/45" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/45.uasset" SILENT=true
+[2023.01.11-09.50.14:842][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/45
+[2023.01.11-09.50.14:842][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/45898227814F029ADCB9DDB2B14F828299.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/45.uasset'
+[2023.01.11-09.50.14:844][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/44" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/44.uasset" SILENT=true
+[2023.01.11-09.50.14:845][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/44
+[2023.01.11-09.50.14:846][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/448C3E433040A19E75DAE97D807522B55B.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/44.uasset'
+[2023.01.11-09.50.14:847][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/43" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/43.uasset" SILENT=true
+[2023.01.11-09.50.14:848][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/43
+[2023.01.11-09.50.14:849][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/439B1620DC4DE8627BF5942997676F309A.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/43.uasset'
+[2023.01.11-09.50.14:849][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/42" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/42.uasset" SILENT=true
+[2023.01.11-09.50.14:851][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/42
+[2023.01.11-09.50.14:852][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/4243CEABDF422709619306F4AEAC465966.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/42.uasset'
+[2023.01.11-09.50.14:852][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/41" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/41.uasset" SILENT=true
+[2023.01.11-09.50.14:855][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/41
+[2023.01.11-09.50.14:855][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/414261290D4C51B58E2D1EC7ACC681E657.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/41.uasset'
+[2023.01.11-09.50.14:856][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/40" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/40.uasset" SILENT=true
+[2023.01.11-09.50.14:860][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/40
+[2023.01.11-09.50.14:860][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/403B0466CC4DEE107E44C24FAD94B7B118.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/40.uasset'
+[2023.01.11-09.50.14:861][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/39" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/39.uasset" SILENT=true
+[2023.01.11-09.50.14:864][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/39
+[2023.01.11-09.50.14:864][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/39CE967EC341E0B0D5DD09F38A8B65F678.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/39.uasset'
+[2023.01.11-09.50.14:865][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/38" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/38.uasset" SILENT=true
+[2023.01.11-09.50.14:867][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/38
+[2023.01.11-09.50.14:867][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/388910FAA643979A6D9A9CC5A934022A7D.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/38.uasset'
+[2023.01.11-09.50.14:867][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/37" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/37.uasset" SILENT=true
+[2023.01.11-09.50.14:869][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/37
+[2023.01.11-09.50.14:869][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/37AA701C5F4858585848CDC893A13E47C9.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/37.uasset'
+[2023.01.11-09.50.14:870][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/36" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/36.uasset" SILENT=true
+[2023.01.11-09.50.14:872][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/36
+[2023.01.11-09.50.14:872][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/36128D0A484F7CC640201E2AAF7A295645.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/36.uasset'
+[2023.01.11-09.50.14:873][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/35" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/35.uasset" SILENT=true
+[2023.01.11-09.50.14:875][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/35
+[2023.01.11-09.50.14:876][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/35DC1879F64D41D5721BA062B9F8E430C2.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/35.uasset'
+[2023.01.11-09.50.14:876][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/34" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/34.uasset" SILENT=true
+[2023.01.11-09.50.14:878][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/34
+[2023.01.11-09.50.14:878][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/3454DA721D46699138197697BCB09F6AD5.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/34.uasset'
+[2023.01.11-09.50.14:879][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/33" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/33.uasset" SILENT=true
+[2023.01.11-09.50.14:881][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/33
+[2023.01.11-09.50.14:881][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/3376B308424FBA05CCB46C0EBA90A0AB9D.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/33.uasset'
+[2023.01.11-09.50.14:882][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/32" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/32.uasset" SILENT=true
+[2023.01.11-09.50.14:884][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/32
+[2023.01.11-09.50.14:884][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/32CFB0FCCD487DF5ACAF839CA4C1077B13.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/32.uasset'
+[2023.01.11-09.50.14:885][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/31" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/31.uasset" SILENT=true
+[2023.01.11-09.50.14:887][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/31
+[2023.01.11-09.50.14:887][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/31EDC776AC4A17BB0107C08E81FF1AC437.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/31.uasset'
+[2023.01.11-09.50.14:888][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/30" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/30.uasset" SILENT=true
+[2023.01.11-09.50.14:892][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/30
+[2023.01.11-09.50.14:892][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/30A2D4D3BA4840E9299434A68A54EA8081.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/30.uasset'
+[2023.01.11-09.50.14:893][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/29" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/29.uasset" SILENT=true
+[2023.01.11-09.50.14:895][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/29
+[2023.01.11-09.50.14:895][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/2987C46C9E48972B3CB03F1A9D26BA4C1E.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/29.uasset'
+[2023.01.11-09.50.14:896][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/28" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/28.uasset" SILENT=true
+[2023.01.11-09.50.14:899][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/28
+[2023.01.11-09.50.14:899][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/28B81D929F4E6537DDE6DBFA8A0DB52622.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/28.uasset'
+[2023.01.11-09.50.14:900][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/27" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/27.uasset" SILENT=true
+[2023.01.11-09.50.14:903][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/27
+[2023.01.11-09.50.14:903][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/2726EE91FA42BF072FFAC67DBE5E412215.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/27.uasset'
+[2023.01.11-09.50.14:904][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/26" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/26.uasset" SILENT=true
+[2023.01.11-09.50.14:906][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/26
+[2023.01.11-09.50.14:906][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/26B77C3C12460767C18A92CFBEBA783AED.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/26.uasset'
+[2023.01.11-09.50.14:907][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/25" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/25.uasset" SILENT=true
+[2023.01.11-09.50.14:909][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/25
+[2023.01.11-09.50.14:909][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/250424AA19401D23681C07C188A83755C7.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/25.uasset'
+[2023.01.11-09.50.14:909][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/24" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/24.uasset" SILENT=true
+[2023.01.11-09.50.14:911][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/24
+[2023.01.11-09.50.14:912][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/24EC99ABA04C7237F3C35AB3AF67043EA0.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/24.uasset'
+[2023.01.11-09.50.14:912][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/23" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/23.uasset" SILENT=true
+[2023.01.11-09.50.14:914][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/23
+[2023.01.11-09.50.14:915][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/23BA59BE544974143F1AB70691AC6DF92A.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/23.uasset'
+[2023.01.11-09.50.14:915][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/22" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/22.uasset" SILENT=true
+[2023.01.11-09.50.14:917][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/22
+[2023.01.11-09.50.14:917][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/22E6B90CE34C00E41ED1C1D28D27A19FC5.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/22.uasset'
+[2023.01.11-09.50.14:918][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/21" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/21.uasset" SILENT=true
+[2023.01.11-09.50.14:920][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/21
+[2023.01.11-09.50.14:920][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/217B5EB1D24869041C429AA2954DC63D07.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/21.uasset'
+[2023.01.11-09.50.14:921][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/20" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/20.uasset" SILENT=true
+[2023.01.11-09.50.14:923][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/20
+[2023.01.11-09.50.14:923][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/20B6F6AF534ED6670901D238AC131571B8.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/20.uasset'
+[2023.01.11-09.50.14:924][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/19" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/19.uasset" SILENT=true
+[2023.01.11-09.50.14:926][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/19
+[2023.01.11-09.50.14:926][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/19BA6248894AE08482CC1C8F8A5A1663B5.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/19.uasset'
+[2023.01.11-09.50.14:932][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/18" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/18.uasset" SILENT=true
+[2023.01.11-09.50.14:934][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/18
+[2023.01.11-09.50.14:934][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/18D3C2661540ACCEC521B242A8BDC880F8.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/18.uasset'
+[2023.01.11-09.50.14:935][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/17" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/17.uasset" SILENT=true
+[2023.01.11-09.50.14:937][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/17
+[2023.01.11-09.50.14:938][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/1791549AA14195B91F985EE0BD45A27A06.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/17.uasset'
+[2023.01.11-09.50.14:938][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/16" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/16.uasset" SILENT=true
+[2023.01.11-09.50.14:942][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/16
+[2023.01.11-09.50.14:942][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/1697113A8047A5591D7B4634B02A68076C.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/16.uasset'
+[2023.01.11-09.50.14:943][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/15" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/15.uasset" SILENT=true
+[2023.01.11-09.50.14:945][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/15
+[2023.01.11-09.50.14:945][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/15B75D558342251F14F50099A4B63AA363.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/15.uasset'
+[2023.01.11-09.50.14:946][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/14" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/14.uasset" SILENT=true
+[2023.01.11-09.50.14:948][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/14
+[2023.01.11-09.50.14:948][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/1415E43E294F7C9D70CED34192BE7B3DE7.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/14.uasset'
+[2023.01.11-09.50.14:949][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/13" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/13.uasset" SILENT=true
+[2023.01.11-09.50.14:951][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/13
+[2023.01.11-09.50.14:951][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/138ECE7A9B4E70D5D45A610197571FD10D.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/13.uasset'
+[2023.01.11-09.50.14:952][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/12" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/12.uasset" SILENT=true
+[2023.01.11-09.50.14:954][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/12
+[2023.01.11-09.50.14:954][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/1225AD8AA94AB026FA085A6DBE445F738E.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/12.uasset'
+[2023.01.11-09.50.14:955][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/11" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/11.uasset" SILENT=true
+[2023.01.11-09.50.14:957][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/11
+[2023.01.11-09.50.14:957][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/118FEE13224BD70313C32F30AF7DC1B0D6.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/11.uasset'
+[2023.01.11-09.50.14:958][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/10" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/10.uasset" SILENT=true
+[2023.01.11-09.50.14:960][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/10
+[2023.01.11-09.50.14:960][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/10C5E1A77941F62206F2D342A05BE87A02.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/10.uasset'
+[2023.01.11-09.50.14:961][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/09" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/09.uasset" SILENT=true
+[2023.01.11-09.50.14:963][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/09
+[2023.01.11-09.50.14:963][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/0991183D244195F76B1F370BAE578590DF.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/09.uasset'
+[2023.01.11-09.50.14:964][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/08" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/08.uasset" SILENT=true
+[2023.01.11-09.50.14:966][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/08
+[2023.01.11-09.50.14:966][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/08E24D400043C731AB19073E9DF25913E8.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/08.uasset'
+[2023.01.11-09.50.14:968][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/07" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/07.uasset" SILENT=true
+[2023.01.11-09.50.14:970][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/07
+[2023.01.11-09.50.14:971][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/0797BB97D8418223EFDC26398634E513CF.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/07.uasset'
+[2023.01.11-09.50.14:971][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/06" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/06.uasset" SILENT=true
+[2023.01.11-09.50.14:973][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/06
+[2023.01.11-09.50.14:973][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/06DF133AD14144D933997009B14168330B.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/06.uasset'
+[2023.01.11-09.50.14:974][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/05" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/05.uasset" SILENT=true
+[2023.01.11-09.50.14:976][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/05
+[2023.01.11-09.50.14:976][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/05C479DA024BFD51DDF35D77BF7AF1C302.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/05.uasset'
+[2023.01.11-09.50.14:977][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/04" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/04.uasset" SILENT=true
+[2023.01.11-09.50.14:979][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/04
+[2023.01.11-09.50.14:979][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/04E48C09C84CE997BA0CCDFDAE97C48F9E.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/04.uasset'
+[2023.01.11-09.50.14:980][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/03" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/03.uasset" SILENT=true
+[2023.01.11-09.50.14:982][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/03
+[2023.01.11-09.50.14:982][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/031B43F2924F1FD5DCBB93ADAC089C2300.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/03.uasset'
+[2023.01.11-09.50.14:983][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/02" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/02.uasset" SILENT=true
+[2023.01.11-09.50.14:985][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/02
+[2023.01.11-09.50.14:985][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/02AB4B5F0242CC1C16B6EE43A5E71ADD1D.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/02.uasset'
+[2023.01.11-09.50.14:985][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFolder/MyMenu/Levels/01" FILE="../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/01.uasset" SILENT=true
+[2023.01.11-09.50.14:988][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Levels/01
+[2023.01.11-09.50.14:988][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/01BDEACE6945CFDE8BED1DF9A6F7F5B41F.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Levels/01.uasset'
+[2023.01.11-09.50.15:439][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.11-09.50.15:453][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.11-09.50.15:465][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.11-09.50.15:605][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Text/Text__White___8x10_
+[2023.01.11-09.50.15:605][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Text__White___8x10_4761936A42C87D7E1BC3A898E80D1FEF.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Text/Text__White___8x10_.uasset'
+[2023.01.11-09.50.15:608][372]LogSavePackage: Moving output files for package: /Game/MyFolder/MyMenu/Text/Text__Black___8x10_
+[2023.01.11-09.50.15:608][372]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Text__Black___8x10_51CDD9EF497B5465B5D7DF84A94D9255.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Content/MyFolder/MyMenu/Text/Text__Black___8x10_.uasset'
+[2023.01.11-09.50.15:668][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.11-09.50.15:681][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.11-09.50.15:694][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.11-09.50.15:748][372]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/33.33
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/34.34
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/35.35
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/36.36
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/37.37
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/38.38
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/39.39
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/40.40
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/41.41
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/42.42
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/43.43
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/44.44
+[2023.01.11-09.50.15:748][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/45.45
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/46.46
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/47.47
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/48.48
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/49.49
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/50.50
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Achievements.Achievements
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Back.Back
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Close.Close
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Leaderboard.Leaderboard
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Levels.Levels
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Next.Next
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Play.Play
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Previous.Previous
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Restart.Restart
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Settings.Settings
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Buttons/Volume.Volume
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/32.32
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/31.31
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/30.30
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/29.29
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/28.28
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/27.27
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/26.26
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/25.25
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/24.24
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/23.23
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/22.22
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/21.21
+[2023.01.11-09.50.15:749][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/20.20
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/19.19
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/18.18
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/17.17
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/16.16
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/15.15
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/14.14
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/13.13
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/12.12
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/11.11
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/10.10
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/09.09
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/08.08
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/07.07
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/06.06
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/05.05
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/04.04
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/03.03
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/02.02
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Levels/01.01
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Text/Text__White___8x10_.Text__White___8x10_
+[2023.01.11-09.50.15:750][372]LogContentValidation: Display: Validating Texture2D /Game/MyFolder/MyMenu/Text/Text__Black___8x10_.Text__Black___8x10_
+[2023.01.11-09.55.21:753][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.11-09.55.21:758][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyFolder/MyMaps/MyLevel' took 0.015
+[2023.01.11-09.55.21:759][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/MyMenu/Background] ([1] browsable assets)...
+[2023.01.11-09.55.21:763][  8]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyFolder/MyMenu/Background.Background]
+[2023.01.11-09.55.21:763][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/MyMenu/Background]
+[2023.01.11-09.55.21:764][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyFolder/MyMenu/Background_Auto1
+[2023.01.11-09.55.21:765][  8]LogSavePackage: Moving '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Background_Auto107D3ED9B40BE6ABBE63257B239849693.tmp' to '../../../../../../Univer/WGK/UnrealProjects/YatskevichI_Lab4_5/Saved/Autosaves/Game/MyFolder/MyMenu/Background_Auto1.uasset'
+[2023.01.11-09.55.21:765][  8]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.01.11-10.02.13:462][999]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.11-10.02.39:358][999]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.01.11-10.02.39:367][999]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.01.11-10.02.39:377][999]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.01.11-10.02.39:403][  0]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.01.11-10.02.43:859][262]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MyMenu
+[2023.01.11-10.02.43:870][262]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.01.11-10.02.45:329][343]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyFolder/MyMenu/MyMenu.MyMenu
+[2023.01.11-10.02.45:330][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-10.02.45:377][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-10.02.45:404][343]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
